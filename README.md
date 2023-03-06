@@ -5,5 +5,5 @@ Dopo che sono stati inseriti i 5 numeri, il software dice quanti e quali dei num
 
 creare array con 5 random numbers
 settare timer 30 sec e far sparire numeri 
-chiedere al utente di inserire i  numeri che ha viisualizzato con prompt
+chiedere al utente di inserire i  numeri che ha visualizzato con prompt
 verificare quanti e quali numeri sono esatti
